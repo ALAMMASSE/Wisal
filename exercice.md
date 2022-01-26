@@ -2,7 +2,7 @@
 <h1>Requête</h1> :
 
 #Afficher les sculpteurs d'Auguste Rodin conservés aux Etas-Unis
-#defautView:Map
+#defaultView:Map
 SELECT ?item ?itemLabel ?lieuDeconservation ?coordonnées WHERE
 {
   ?item wdt:P31 wd:Q860861 . #chercher les sculteurs d'Auguste Rodin
