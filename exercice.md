@@ -1,6 +1,7 @@
 
 <h1>Requête</h1> :
 
+```sparql
 #Afficher les sculpteurs d'Auguste Rodin conservés aux Etas-Unis
 #defaultView:Map
 SELECT ?item ?itemLabel ?lieuDeconservation ?coordonnées WHERE
@@ -14,7 +15,7 @@ SELECT ?item ?itemLabel ?lieuDeconservation ?coordonnées WHERE
   } 
     SERVICE wikibase:label {bd:serviceParam wikibase:language "fr"} # Récupérer les labels en français
 }
-
+```
 
 <h1>Résultats</h1> :
 
