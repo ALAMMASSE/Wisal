@@ -35,3 +35,7 @@ ayant reçu une injection de rappel, rapportés à la population éligible (non 
 
 <h1>Type de vaccins présent dans chaque département</h1>
 <img src="viz (1).svg"></img>
+
+
+
+<iframe src="https://data.centrevaldeloire.fr/explore/embed/dataset/vaccinations_covid/custom/?&static=false&datasetcard=true" width="1000" height="1000" frameborder="0"></iframe>
