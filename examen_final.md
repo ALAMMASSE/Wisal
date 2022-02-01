@@ -33,4 +33,4 @@ ayant reçu une injection de rappel, rapportés à la population éligible (non 
 <iframe src="https://data.centrevaldeloire.fr/explore/embed/dataset/stocks-des-doses-de-vaccins-contre-la-covid-19/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IlNVTSIsInlBeGlzIjoiZG9zZV9udW1iZXIiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjMEFCRkJGIn1dLCJ4QXhpcyI6ImRhdGUiLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiJkYXkiLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJzdG9ja3MtZGVzLWRvc2VzLWRlLXZhY2NpbnMtY29udHJlLWxhLWNvdmlkLTE5Iiwib3B0aW9ucyI6e319fV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&static=false&datasetcard=false" width="900" height="1000" frameborder="0"></iframe>
 
 
-<img>viz (1).svg</img>
+<img src="viz (1).svg"></img>
