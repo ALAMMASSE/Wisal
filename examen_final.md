@@ -38,6 +38,6 @@ ayant reçu une injection de rappel, rapportés à la population éligible (non 
 
 
 
-<iframe src="https://data.centrevaldeloire.fr/explore/embed/dataset/vaccinations_covid/custom/?&static=false&datasetcard=true" width="1500" height="1500" frameborder="0"></iframe>
+<iframe src="https://data.centrevaldeloire.fr/explore/embed/dataset/vaccinations_covid/custom/?&static=false&datasetcard=true" width="1200" height="1000" frameborder="0"></iframe>
 
 
