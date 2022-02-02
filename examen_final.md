@@ -1,4 +1,4 @@
-<title>Données vaccination par région</title>
+<h1 align="center">Données vaccination par région</h1>
 <img src="vaccin.jfif" height="600" width="1000">
 
 <h1>Données vaccination par tranche d'âge, type de vaccin et département / région</h1>
