@@ -68,9 +68,8 @@ Le graphe suivant représente la somme de nombre de doses depuis le début de la
 
 Le graphe suivant est un graphe réalisé à l'aide de l'outils RawGraphe. Il permet de visualiser pour chaque région le type de vaccin dont elle dispose.
 
+viz (1).svg
 
-![GitHub Logo](viz (1).svg)
-Format: ![Alt Text](url)
 
 ## 6. Nombre de lieu de vaccination France
 
