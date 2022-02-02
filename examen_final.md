@@ -51,13 +51,17 @@ ayant reçu une injection de rappel, rapportés à la population éligible (non 
 
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/covid-19-france-vaccinations-age-sexe-dep@public/custom/?disjunctive.variable_label&sort=date&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoibl9kb3NlMSIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNGRjUxNUEifV0sInhBeGlzIjoiZGF0ZSIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6InllYXIiLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJjb3ZpZC0xOS1mcmFuY2UtdmFjY2luYXRpb25zLWFnZS1zZXhlLWRlcEBwdWJsaWMiLCJvcHRpb25zIjp7ImRpc2p1bmN0aXZlLnZhcmlhYmxlX2xhYmVsIjp0cnVlLCJzb3J0IjoiZGF0ZSJ9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D&static=false&datasetcard=false" width="1000" height="800" frameborder="0"></iframe>
 
-Les graphes ci-dessus représentent l'évolution de la campagne de vaccination depuis son début en début de l'année 2021 jusqu'à maintenant. Les graphes représentent cette évolution selon les tranches d'âges et en fontion de sexe aussi.
+Les graphes ci-dessus représentent l'évolution de la campagne de vaccination depuis son début en début de l'année 2021 jusqu'à maintenant. Les graphes représentent cette évolution selon les tranches d'âges et en fontion de sexe aussi. 
+
+ps : Il faut mettre le curseur sur le graphe pour obtenir les valeurs
 
 ## 4. Stock des doses
 
 Le graphe suivant représente la somme de nombre de doses depuis le début de la campagne de la vaccination.
 
 <iframe src="https://data.centrevaldeloire.fr/explore/embed/dataset/stocks-des-doses-de-vaccins-contre-la-covid-19/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IlNVTSIsInlBeGlzIjoiZG9zZV9udW1iZXIiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjMEFCRkJGIn1dLCJ4QXhpcyI6ImRhdGUiLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiJkYXkiLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJzdG9ja3MtZGVzLWRvc2VzLWRlLXZhY2NpbnMtY29udHJlLWxhLWNvdmlkLTE5Iiwib3B0aW9ucyI6e319fV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&static=false&datasetcard=false" width="900" height="400" frameborder="0"></iframe>
+
+ps: Pour obtenir les valeurs exactes, il faut mettre le curseur sur la partie du graphe souhaitée.
 
 ## 5. Type de vaccins présent dans chaque région
 
