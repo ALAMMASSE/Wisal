@@ -13,9 +13,8 @@
 
 
 # Données vaccination par tranche d'âge, type de vaccin et département / région
-<iframe src="https://data.opendatasoft.com/explore/embed/dataset/donnees-vaccination-par-tranche-dage-type-de-vaccin-et-departement@cnam/table/?&static=false&datasetcard=false" width="900" height="1000" frameborder="0"></iframe>
 
-Les données présentent des informations relatives à la vaccination contre la Covid-19 par tranche d’âge, type de vaccin, département et région de résidence des patients.
+Les données suivants présentent des informations relatives à la vaccination contre la Covid-19 par tranche d’âge, type de vaccin, département et région de résidence des patients.
 
 Pour chaque tranche d’âge, type de vaccin, département et région, sont présentés :
 
@@ -31,6 +30,7 @@ ayant reçu au moins une première injection ;
 dont le schéma vaccinal initial est terminé ;
 ayant reçu une injection de rappel, rapportés à la population Insee (non calculés par type de vaccin) ;
 ayant reçu une injection de rappel, rapportés à la population éligible (non calculés par type de vaccin).
+<iframe src="https://data.opendatasoft.com/explore/embed/dataset/donnees-vaccination-par-tranche-dage-type-de-vaccin-et-departement@cnam/table/?&static=false&datasetcard=false" width="900" height="1000" frameborder="0"></iframe>
 
 
 
