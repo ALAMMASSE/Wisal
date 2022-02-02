@@ -26,7 +26,7 @@ ayant reçu une injection de rappel, rapportés à la population éligible (non 
 
 
 <h1>Nombre de personne vaccinées en France par région</h1>
-<iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/wissal_alammasse/?&static=false&scrollWheelZoom=false"></iframe>
+<iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoibl9yYXBwZWwiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjRkY1MTVBIn1dLCJ4QXhpcyI6InJlZ19uYW1lIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoiIiwic29ydCI6IiIsImNvbmZpZyI6eyJkYXRhc2V0IjoiY292aWQtMTktZnJhbmNlLXZhY2NpbmF0aW9ucy1hZ2Utc2V4ZS1kZXBAcHVibGljIiwib3B0aW9ucyI6e319fV0sImFsaWduTW9udGgiOnRydWUsImRpc3BsYXlMZWdlbmQiOnRydWV9&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
 
 <h1>Stock des doses</h1>
