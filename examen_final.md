@@ -1,4 +1,4 @@
-# Données vaccination par région en France
+# Données de vaccination En France
 
 Dès le lancement de la campagne de vaccination, les autorités 
 sanitaires ont disposé d’informations permettant un suivi quotidien de 
@@ -77,4 +77,6 @@ Le graphe suivant représente le nombre de centre de vaccination dont dispose ch
 Dans ce travail, on a procédé à visualiser des données sous forme d'open data prise du site de gouvernement. Ces données sont variés et comportent d'importante statistique en tous ce qui concerne la campagne de vaccination depuis son début en début de l'année 2021 jusqu'à maintenant. Ces statistiques nous informent à la fois de l'évolution de la campagne de vaccination, la répartition des lieux de vaccination, la gestion de stock de vaccin, le nombre de personne vaccinés par chaque région selon tranche d'âge et sexe... Pour bien visualiser nos données, on s'est basé sur des représentations grahiques et tableaux à l'aide de l'outils opendatasoft et Rawgraph. 
 
 <img src="nuage-de-mots (2).png" width="2000" height="600">
+![image](https://user-images.githubusercontent.com/98016670/152234199-731e7692-535e-4aa5-a2cf-19360d7c9e6c.png)
+
 
