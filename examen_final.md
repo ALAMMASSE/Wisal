@@ -1,8 +1,10 @@
 # Données de vaccination En France
 
+
 Dès le lancement de la campagne de vaccination, les autorités 
 sanitaires ont disposé d’informations permettant un suivi quotidien de 
-l’avancée et du déploiement de la campagne sur le territoire. …
+l’avancée et du déploiement de la campagne sur le territoire. Dans ce travail, on présentera des données extraites du site de gouvernement décrivant l'évolution de la campagne de vaccination.
+
 
 
 <img src="vaccin.jfif" height="600" width="1000">
