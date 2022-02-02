@@ -70,7 +70,7 @@ Le graphe suivant est un graphe réalisé à l'aide de l'outils RawGraphe. Il pe
 
 <img src="viz (1).svg">
 
-## 6. Nombre lieu de vaccination France
+## 6. Nombre de lieu de vaccination France
 
 Le graphe suivant représente le nombre de centre de vaccination dont dispose chaque région en France.
 
