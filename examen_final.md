@@ -1,7 +1,7 @@
 <h1 align="center">Données vaccination par région en France</h1>
-<br></br>
-<br></br>
-<br></br>
+
+
+
 <img src="vaccin.jfif" height="600" width="1000">
 <br>Sommaire</br>
  1- Données vaccination par tranche d'âge, type de vaccin et département / région
@@ -42,7 +42,7 @@ ayant reçu une injection de rappel, rapportés à la population éligible (non 
 
 <h1>Stock des doses</h1>
 <br>Ce graphe présente le nombre de dose à disposition </br>
-<iframe src="https://data.centrevaldeloire.fr/explore/embed/dataset/stocks-des-doses-de-vaccins-contre-la-covid-19/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IlNVTSIsInlBeGlzIjoiZG9zZV9udW1iZXIiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjMEFCRkJGIn1dLCJ4QXhpcyI6ImRhdGUiLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiJkYXkiLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJzdG9ja3MtZGVzLWRvc2VzLWRlLXZhY2NpbnMtY29udHJlLWxhLWNvdmlkLTE5Iiwib3B0aW9ucyI6e319fV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&static=false&datasetcard=false" width="900" height="800" frameborder="0"></iframe>
+<iframe src="https://data.centrevaldeloire.fr/explore/embed/dataset/stocks-des-doses-de-vaccins-contre-la-covid-19/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IlNVTSIsInlBeGlzIjoiZG9zZV9udW1iZXIiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjMEFCRkJGIn1dLCJ4QXhpcyI6ImRhdGUiLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiJkYXkiLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJzdG9ja3MtZGVzLWRvc2VzLWRlLXZhY2NpbnMtY29udHJlLWxhLWNvdmlkLTE5Iiwib3B0aW9ucyI6e319fV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&static=false&datasetcard=false" width="900" height="400" frameborder="0"></iframe>
 
 <h1>Type de vaccins présent dans chaque département</h1>
 <img src="viz (1).svg">
