@@ -68,7 +68,8 @@ Le graphe suivant représente la somme de nombre de doses depuis le début de la
 
 Le graphe suivant est un graphe réalisé à l'aide de l'outils RawGraphe. Il permet de visualiser pour chaque région le type de vaccin dont elle dispose.
 
-viz (1).svg
+![GitHub Logo](viz (1).svg)
+
 
 
 ## 6. Nombre de lieu de vaccination France
@@ -80,6 +81,7 @@ Le graphe suivant représente le nombre de centre de vaccination dont dispose ch
 ## Conclusion
 
 Dans ce travail, on vous a présenté des données sous forme d'open data extraites du site de gouvernement. Ces données sont variées et comportent d'importantes statistiques en tous ce qui concerne la campagne de vaccination depuis son début en début de l'année 2021 jusqu'à maintenant. Ces statistiques nous informent à la fois de l'évolution de la campagne de vaccination, de la répartition des lieux de vaccination, la gestion de stock de vaccin, le nombre de personne vaccinées par chaque région selon tranche d'âge et en fonction sexe, etc.. Pour bien visualiser nos données, on s'est basé sur des représentations grahiques à l'aide de l'outils Opendatasoft et Rawgraph. 
+
 
 <img src="nuage-de-mots (2).png" width="2000" height="600">
 
