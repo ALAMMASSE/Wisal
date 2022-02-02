@@ -62,4 +62,7 @@ Ce graphe présente le nombre de dose à disposition
 
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/covid-19-france-vaccinations-age-sexe-dep@public/custom/?disjunctive.variable_label&sort=date&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoibl9kb3NlMSIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNGRjUxNUEifV0sInhBeGlzIjoiZGF0ZSIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6InllYXIiLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJjb3ZpZC0xOS1mcmFuY2UtdmFjY2luYXRpb25zLWFnZS1zZXhlLWRlcEBwdWJsaWMiLCJvcHRpb25zIjp7ImRpc2p1bmN0aXZlLnZhcmlhYmxlX2xhYmVsIjp0cnVlLCJzb3J0IjoiZGF0ZSJ9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D&static=false&datasetcard=false" width="1000" height="800" frameborder="0"></iframe>
 
+## Conclusion
+
+Dans ce travail, on a procédé à visualiser des données sous forme d'open data prise du site de gouvernement. Ces données sont variés et comportent d'importante statistique en tous ce qui concerne la campagne de vaccination depuis son début en début de l'année 2021 jusqu'à maintenant. Ces statistiques nous informent à la fois de l'évolution de la campagne de vaccination, la répartition des lieux de vaccination, la gestion de stock de vaccin, le nombre de personne vaccinés par chaque région selon tranche d'âge et sexe... Pour bien visualiser nos données, on s'est basé sur des représentations grahiques et tableaux à l'aide de l'outils opendatasoft et Rawgraph. 
 
