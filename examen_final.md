@@ -1,5 +1,8 @@
 # Données vaccination par région en France
 
+Dès le lancement de la campagne de vaccination, les autorités 
+sanitaires ont disposé d’informations permettant un suivi quotidien de 
+l’avancée et du déploiement de la campagne sur le territoire. …
 
 
 <img src="vaccin.jfif" height="600" width="1000">
