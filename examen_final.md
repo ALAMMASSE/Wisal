@@ -4,11 +4,11 @@
 
 <img src="vaccin.jfif" height="600" width="1000">
 ## Sommaire
- ##### Données vaccination par tranche d'âge, type de vaccin et département / région
- ##### Nombre de personne vaccinées en France par région
- ##### Stock des doses
- ##### Type de vaccins présent dans chaque département
- ##### Nombre lieu de vaccination France
+ ###### Données vaccination par tranche d'âge, type de vaccin et département / région
+ ###### Nombre de personne vaccinées en France par région
+ ###### Stock des doses
+ ###### Type de vaccins présent dans chaque département
+ ###### Nombre lieu de vaccination France
  
 
 
