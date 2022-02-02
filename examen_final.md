@@ -1,5 +1,15 @@
 <h1 align="center">Données vaccination par région</h1>
 <img src="vaccin.jfif" height="600" width="1000">
+<br>Sommaire</br>
+ 1- Données vaccination par tranche d'âge, type de vaccin et département / région
+ 2- Nombre de personne vaccinées en France par région
+ 3- Stock des doses
+ 4- Type de vaccins présent dans chaque département
+ 5- Nombre lieu de vaccination France
+ <br></br>
+  <br></br>
+ 
+
 
 <h1>Données vaccination par tranche d'âge, type de vaccin et département / région</h1>
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/donnees-vaccination-par-tranche-dage-type-de-vaccin-et-departement@cnam/table/?&static=false&datasetcard=false" width="900" height="1000" frameborder="0"></iframe>
