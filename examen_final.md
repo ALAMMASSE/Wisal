@@ -1,5 +1,5 @@
 <title>Données vaccination par région</title>
-<img src="vaccin.jfif" height="800" width="700">
+<img src="vaccin.jfif" height="1000" width="600">
 
 <h1>Données vaccination par tranche d'âge, type de vaccin et département / région</h1>
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/donnees-vaccination-par-tranche-dage-type-de-vaccin-et-departement@cnam/table/?&static=false&datasetcard=false" width="900" height="1000" frameborder="0"></iframe>
