@@ -60,7 +60,7 @@ Les graphes ci-dessus représentent l'évolution de la campagne de vaccination d
 
 ## 4. Stock des doses
 
-Le graphe suivant représente la somme de nombre de dose depuis le début de la campagne de la vaccination.
+Le graphe suivant représente la somme de nombre de doses depuis le début de la campagne de la vaccination.
 
 <iframe src="https://data.centrevaldeloire.fr/explore/embed/dataset/stocks-des-doses-de-vaccins-contre-la-covid-19/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IlNVTSIsInlBeGlzIjoiZG9zZV9udW1iZXIiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjMEFCRkJGIn1dLCJ4QXhpcyI6ImRhdGUiLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiJkYXkiLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJzdG9ja3MtZGVzLWRvc2VzLWRlLXZhY2NpbnMtY29udHJlLWxhLWNvdmlkLTE5Iiwib3B0aW9ucyI6e319fV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&static=false&datasetcard=false" width="900" height="400" frameborder="0"></iframe>
 
@@ -78,7 +78,7 @@ Le graphe suivant représente le nombre de centre de vaccination dont dispose ch
 
 ## Conclusion
 
-Dans ce travail, on vous a présenté des données sous forme d'open data prise du site de gouvernement. Ces données sont variées et comportent d'importantes statistiques en tous ce qui concerne la campagne de vaccination depuis son début en début de l'année 2021 jusqu'à maintenant. Ces statistiques nous informent à la fois de l'évolution de la campagne de vaccination, la répartition des lieux de vaccination, la gestion de stock de vaccin, le nombre de personne vaccinées par chaque région selon tranche d'âge et en fonction sexe... Pour bien visualiser nos données, on s'est basé sur des représentations grahiques à l'aide de l'outils Opendatasoft et Rawgraph. 
+Dans ce travail, on vous a présenté des données sous forme d'open data extraites du site de gouvernement. Ces données sont variées et comportent d'importantes statistiques en tous ce qui concerne la campagne de vaccination depuis son début en début de l'année 2021 jusqu'à maintenant. Ces statistiques nous informent à la fois de l'évolution de la campagne de vaccination, la répartition des lieux de vaccination, la gestion de stock de vaccin, le nombre de personne vaccinées par chaque région selon tranche d'âge et en fonction sexe... Pour bien visualiser nos données, on s'est basé sur des représentations grahiques à l'aide de l'outils Opendatasoft et Rawgraph. 
 
 <img src="nuage-de-mots (2).png" width="2000" height="600">
 
