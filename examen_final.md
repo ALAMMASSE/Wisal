@@ -82,5 +82,5 @@ Dans ce travail, on vous a présenté des données sous forme d'open data prise 
 
 <img src="nuage-de-mots (2).png" width="2000" height="600">
 
-Ps: Nuage réalisé à l'aide de : https://nuagedemots.co/
+Ps: Nuage de mots réalisé à l'aide de : https://nuagedemots.co/
 
