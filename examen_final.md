@@ -12,11 +12,11 @@ l’avancée et du déploiement de la campagne sur le territoire. Dans ce travai
 ## Sommaire
 
 1. [Données vaccination par tranche d'âge, type de vaccin et département / région](#Données vaccination par tranche d'âge, type de vaccin et département / région)
-2. [Nombre de personne vaccinées en France par région](#Nombre de personne vaccinées en France par région)
+2. [Nombre de personnes vaccinées en France par région](#Nombre de personnes vaccinées en France par région)
 3. [Evolution de la campagne de vaccination](#Evolution de la campagne de vaccination )
 4. [Stock des doses](#Stock des doses)
 5. [Type de vaccins présent dans chaque région](#Type de vaccins présent dans chaque région)
-6. [Nombre lieu de vaccination France](#Nombre lieu de vaccination France)
+6. [Nombre lieux de vaccination France](#Nombre lieux de vaccination France)
 7. [Conclusion](#Conclusion)
  
 
@@ -43,7 +43,7 @@ ayant reçu une injection de rappel, rapportés à la population éligible (non 
 
 
 
-## 2. Nombre de personne vaccinées en France par région
+## 2. Nombre de personnes vaccinées en France par région
 <iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoibl9yYXBwZWwiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjRkY1MTVBIn1dLCJ4QXhpcyI6InJlZ19uYW1lIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoiIiwic29ydCI6IiIsImNvbmZpZyI6eyJkYXRhc2V0IjoiY292aWQtMTktZnJhbmNlLXZhY2NpbmF0aW9ucy1hZ2Utc2V4ZS1kZXBAcHVibGljIiwib3B0aW9ucyI6e319fV0sImFsaWduTW9udGgiOnRydWUsImRpc3BsYXlMZWdlbmQiOnRydWV9&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
 
